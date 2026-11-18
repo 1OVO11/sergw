@@ -1,0 +1,6 @@
+*.o
+parser
+test_units
+test.bin
+a.out
+build/
