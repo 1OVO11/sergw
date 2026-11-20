@@ -1,6 +1,15 @@
+# 编译产物
 *.o
-parser
+sergw
 test_units
+
+# 生成的数据
 test.bin
-a.out
-build/
+
+# 运行产物 / 日志
+logs/
+*.log
+
+# 编辑器
+.vscode/
+*.swp
